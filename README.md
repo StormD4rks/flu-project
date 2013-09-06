@@ -1,24 +1,24 @@
 Flu Project
 ===========
 
-Creado por: Juan Antonio Calles y Pablo González
+Creado por: Juan Antonio Calles y Pablo González.
 
-CONTENIDO
+Contenido
 =========
 
-* manual.pdf -> Contiene información sobre su instalación, configuración y uso
+* manual.pdf -> Contiene información sobre su instalación, configuración y uso.
 
-* nucleo -> Código fuente del núcleo de Flu (c#)
+* nucleo -> Código fuente del núcleo de Flu (C#).
 
-* servidorweb -> Código PHP del servidor web de Flu
+* servidorweb -> Código PHP del servidor web de Flu.
 
-* ejecutables -> Ejecutable del Generador de Bots de Flu con la vacuna y ejecutable del núcleo de Flu ya compilado
+* ejecutables -> Ejecutable del Generador de Bots de Flu con la vacuna y ejecutable del núcleo de Flu ya compilado.
 
-* vacuna+generador_bots -> Código fuente de la vacuna y del generador de bots de Flu (c#)
+* vacuna+generador_bots -> Código fuente de la vacuna y del generador de bots de Flu (C#).
 
-* BBDD -> Base de datos MySql de Flu
+* BBDD -> Base de datos MySql de Flu.
 
-AVISO LEGAL
+Aviso Legal
 ===========
 
 Flu project es un proyecto libre nacido con el objetivo de enseñar y concienciar a los usuarios sobre 
